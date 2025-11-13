@@ -1,0 +1,12 @@
+Conta criada. Saldo inicial: R$100.0
+Cliente Pai  ativo.
+Cliente Mãe  ativo.
+Cliente Filho  ativo.
+Cliente Pai  ativo. Saque no valor R$: 100.0 realizado com sucesso!
+Saldo insuficiente para saque para Mãe 
+Saldo insuficiente para saque para Filho 
+Filho  sacou um total de R$0.0
+Mãe  sacou um total de R$0.0
+Pai  sacou R$ 100.0. Saldo após saque: R$ 0.0
+Saldo insuficiente para saque para Pai 
+Pai  sacou um total de R$100.0
